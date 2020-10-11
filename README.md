@@ -1,1 +1,1 @@
-# Puzzling Dancing Links<small>Seminar in Computational Engineering</small>
+# Puzzling Dancing Links: Seminar in Computational Engineering
