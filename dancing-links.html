@@ -56,6 +56,13 @@
                 </section>
 
                 <section>
+                    <h2>What is Color-Controlled Covering (XCC)?</h2>
+                    <p>Expanded exact cover problems with <strong>primary</strong> and <strong>secondary</strong> items.</p>
+                    <p>Secondary items get an explicitly <strong>assigned color</strong> or an implicit <strong>unique color</strong>.</p>
+                    <p>A secondary item with the <strong>same</strong> color can occur multiple times.</p>
+                </section>
+
+                <section>
                     <h3>Exact Cover Problems</h3>
                     <pre><code data-trim data-noescape contenteditable>&lt;p q r&gt; [x y]
 p q x y ;
@@ -64,6 +71,7 @@ p x ;
 q x ;
 r y .</code></pre>
                     <button onclick="processCurrentCodeBlock();">Solve!</button>
+                    <button onclick="nextSolutionOfCurrentBlock();">Next solution!</button>
                     <span class="status"></span>
                 </section>
 
@@ -76,7 +84,171 @@ p x<span class="fragment fade-in">:B</span> ;
 q x<span class="fragment fade-in">:A</span> ;
 r y<span class="fragment fade-in">:B</span> .</code></pre>
                     <button onclick="processCurrentCodeBlock();">Solve!</button>
+                    <button onclick="nextSolutionOfCurrentBlock();">Next solution!</button>
                     <span class="status"></span>
+                </section>
+
+                <section>
+                    <h2>Solving XCC Problems</h2>
+                    <p>Algorithm C</p>
+                    <p>Expansion of Algorithm X to include colors and distinguish primary and secondary items.</p>
+                    <p>Multiple <strong>heuristics</strong> may be used to select best search path, e.g. the <strong>MRV</strong> () heuristic.</p>
+                </section>
+
+                <section>
+                    <h2>Related Problems that can be Expressed as XCC Problems</h2>
+                    <ul>
+                        <li>(Cross-)Word Puzzles and Word Rectangles</li>
+                        <li>(Hyper-)Graph Coloring Problems</li>
+                        <li>Automorphisms of Sudokus</li>
+                        <li>Tetrad Tiles</li>
+                        <li>Bruijn Circles</li>
+                        <li>MacMahon's Triangles and Shapes</li>
+                        <li>...</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <section>
+                        <h2>Word Puzzles</h2>
+                        <p>Two dimensional array of letters containing a list of
+                            (possibly duplicated) words in all directions, including
+                            diagonals.</p>
+                        <pre>
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+                        </pre>
+                        <p>(The word puzzle above is also the solution for exercise 106)</p>
+
+                    </section>
+                    <section>
+                        <h2>Word Puzzles: Solution</h2>
+                        <div style="display: table; table-layout: fixed; width: 100%; text-align: left;">
+                            <div style="display: table-cell; width: 30%; vertical-align: top;">
+                                <pre>
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+                                </pre>
+                        </div><div style="display: table-cell; width: 30%; vertical-align: top;">
+
+                            <pre>
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T
+                            </pre>
+
+                        </div><div style="display: table-cell; width: 30%; vertical-align: top;">
+                            <pre>
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+ FIVE
+                            </pre>
+                        </div>
+                    </section>
+
+                    <section>
+                        <h2>Word Puzzle: Reloaded (Exercise 105)</h2>
+                        <pre>
+O N E T T R 
+
+S I X H W U 
+
+E N R G E O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+                        </pre>
+                    </section>
+                </section>
+
+                <section>
+                    <h2>Challenges with Word Puzzles</h2>
+                    <p>Encoding positions of words.</p>
+                    <p>Ensuring same words do not occupy the same space if the
+                        same words must be fitted multiple times.</p>
+                    <p>Painting words in all possible positions and directions.</p>
+                </section>
+
+                <section>
+                    <h2>Encoding Word Puzzles</h2>
+                    <p>Items as <code>int32_t</code> values for distinct
+                        secondary, primary and word starting points.</p>
+                    <p>Colors as <code>char32_t</code> values mapped to <code>int32_t</code> values.</p>
+                </section>
+
+                <section>
+                    <h2>About the Implementation</h2>
+                    <p>Fully templated, internal types can be changed.</p>
+                    <p>Unicode-aware (also supporting emoji characters!)</p>
+                    <p>Generic XCC problem solver with API or file parser</p>
+                    <p>Supports arbitrary length of colors and attributes through mapping mechanism (using <code>std::unordered_map</code>)</p>
+                    <p>AGPLv3 Licensed</p>
+                    <p>Single-file (no complicated build system required)</p>
+                </section>
+
+                <section>
+                    <h2>Further Improvements in Algorithm</h2>
+                    <p>Improved heuristics tailored to WordPuzzle</p>
+                    <p>Configurable directions for input words exposed to the
+                    user (implementation is already capable of distinguishing
+                        between orientations)</p>
+                    <p>Improved API and header files</p>
                 </section>
             </div>
         </div>
@@ -122,33 +294,45 @@ r y<span class="fragment fade-in">:B</span> .</code></pre>
              xcc.parse(s);
              return xcc;
          }
+
+         function displaySolution(xcc, block) {
+             s = xcc.get_selected_options();
+             let options = {}
+             for(let i = 0; i < s.size(); ++i) {
+                 options[(s.get(i))] = true;
+             }
+             //block.setAttribute("data-line-numbers", data);
+             let html = block.innerHTML;
+             html = html.replaceAll('<br>', '\n').replaceAll(/<[^>]*>?/gm, '');
+             let lines = html.split('\n');
+             let newContents = "";
+             for(let i = 0;i < lines.length; i++){
+                 lines[i] = lines[i].replace('<', "&lt;").replace('>', "&gt;");
+                 if(options[i]) {
+                     newContents += "<mark>" + lines[i] + "</mark>";
+                 } else {
+                     newContents += lines[i];
+                 }
+                 if(i + 1 < lines.length) {
+                     newContents += "<br>";
+                 }
+             }
+             $(block).html(newContents);
+         }
+
+         function computeNextSolution(block) {
+             if(window.parsedXCC) {
+                 drawSuccessBorder(block, window.parsedXCC.compute_next_solution());
+                 displaySolution(xcc, block);
+             }
+         }
+         
          function processCodeBlock(block) {
              problemStr = block.textContent;
              xcc = parseStringToXCC(problemStr);
+             window.parsedXCC = xcc;
              if(xcc.compute_next_solution()) {
-                 s = xcc.get_selected_options();
-                 let options = {}
-                 for(let i = 0; i < s.size(); ++i) {
-                     options[(s.get(i))] = true;
-                 }
-                 //block.setAttribute("data-line-numbers", data);
-                 let html = block.innerHTML;
-                 html = html.replaceAll('<br>', '\n').replaceAll(/<[^>]*>?/gm, '');
-                 let lines = html.split('\n');
-                 let newContents = "";
-                 for(let i = 0;i < lines.length; i++){
-                     lines[i] = lines[i].replace('<', "&lt;").replace('>', "&gt;");
-                     if(options[i]) {
-                         newContents += "<mark>" + lines[i] + "</mark>";
-                     } else {
-                         newContents += lines[i];
-                     }
-                     if(i + 1 < lines.length) {
-                         newContents += "<br>";
-                     }
-                 }
-                 $(block).html(newContents);
-
+                 displaySolution(xcc, block)
                  return true;
              } else {
                  console.log("NO SOLUTION!")
@@ -169,6 +353,10 @@ r y<span class="fragment fade-in">:B</span> .</code></pre>
          function processCurrentCodeBlock() {
              codeblock = document.querySelector("section.present > pre:nth-child(2) > code:nth-child(1)");
              drawSuccessBorder(codeblock, processCodeBlock(codeblock));
+         }
+         function nextSolutionOfCurrentBlock() {
+             codeblock = document.querySelector("section.present > pre:nth-child(2) > code:nth-child(1)");
+             computeNextSolution(codeblock);
          }
         </script>
     </body>
