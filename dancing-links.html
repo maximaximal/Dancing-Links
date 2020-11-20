@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<title>Puzzling Dancing Links: Color-Controlled Covering</title>
+
+		<meta name="description" content="Color-Controlled Covering in Donald Knuth's Backtracking; Dancing Links">
+		<meta name="author" content="Max Heisinger">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="deps/revealjs/dist/reset.css">
+		<link rel="stylesheet" href="deps/revealjs/dist/reveal.css">
+		<link rel="stylesheet" href="deps/revealjs/dist/theme/white.css" id="theme">
+		<link rel="stylesheet" href="deps/revealeditor.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="deps/revealjs/plugin/highlight/zenburn.css" id="highlight-theme">
+
+        <style type="text/css">
+         * {
+             text-align: left;
+             font-family: sans-serif;
+         }
+         button {
+             background-color: #008CBA;
+             border: none;
+             color: white;
+             padding: 15px 32px;
+             text-align: center;
+             text-decoration: none;
+             display: inline-block;
+             font-size: 16px;
+         }
+        </style>
+	</head>
+
+    <body>
+        <div class="reveal">
+            <div class="slides">
+                <section class="title-slide">
+                    <h2 class="r-fit-text">Color-Controlled<br>Covering</h2>
+                    <h3>Puzzling Dancing Links, WS2020</h3>
+                    <p><a href="maxheisinger.at">Max Heisinger</a>, JKU</p>
+                </section>
+
+                <section>
+                    <h3>Exact Cover Problems</h3>
+                    <pre><code data-trim data-noescape contenteditable>&lt;p q r&gt; [x y]
+p q x y ;
+p r x y ;
+p x ;
+q x ;
+r y .</code></pre>
+                    <button onclick="processCurrentCodeBlock();">Solve!</button>
+                    <span class="status"></span>
+                </section>
+
+                <section>
+                    <h3>Adding Colors to Exact Cover Problems</h3>
+                    <pre><code data-trim data-noescape contenteditable>&lt;p q r&gt; [x y]
+p q x   y<span class="fragment fade-in">:A</span> ;
+p r x<span class="fragment fade-in">:A</span> y   ;
+p x<span class="fragment fade-in">:B</span> ;
+q x<span class="fragment fade-in">:A</span> ;
+r y<span class="fragment fade-in">:B</span> .</code></pre>
+                    <button onclick="processCurrentCodeBlock();">Solve!</button>
+                    <span class="status"></span>
+                </section>
+            </div>
+        </div>
+
+        <script src="deps/jquery-3.5.1.min.js"></script>
+        <script src="implementation/dancing-links.js"></script>
+        <script src="deps/revealjs/dist/reveal.js"></script>
+        <script src="deps/revealjs/plugin/zoom/zoom.js"></script>
+        <script src="deps/revealjs/plugin/notes/notes.js"></script>
+        <script src="deps/revealjs/plugin/search/search.js"></script>
+        <script src="deps/revealjs/plugin/markdown/markdown.js"></script>
+        <script>
+         Reveal.initialize({
+             controls: true,
+             progress: true,
+             center: false,
+             hash: true,
+             transition: "none",
+             // Learn about plugins: https://revealjs.com/plugins/
+             plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown ]
+         });
+
+         Reveal.on('slidechanged', event => {
+             code = document.querySelector("section.present > pre:nth-child(2) > code:nth-child(1)");
+             if(code) {
+                 code.onkeydown = function(e) {
+                     if (e.keyCode == 13)
+                     {
+                         if (e.shiftKey)
+                         {
+                             processCodeBlock(document.querySelector("section.present > pre:nth-child(2) > code:nth-child(1)"));
+                             return false;
+                         }
+                         return true;
+                     }
+                     return true;
+                 };
+             }
+         });
+
+         function parseStringToXCC(s) {
+             xcc = new Module.XCC();
+             xcc.parse(s);
+             return xcc;
+         }
+         function processCodeBlock(block) {
+             problemStr = block.textContent;
+             xcc = parseStringToXCC(problemStr);
+             if(xcc.compute_next_solution()) {
+                 s = xcc.get_selected_options();
+                 let options = {}
+                 for(let i = 0; i < s.size(); ++i) {
+                     options[(s.get(i))] = true;
+                 }
+                 //block.setAttribute("data-line-numbers", data);
+                 let lines = block.textContent.split('\n');
+                 let newContents = "";
+                 for(let i = 0;i < lines.length; i++){
+                     lines[i] = lines[i].replace('<', "&lt;").replace('>', "&gt;");
+                     if(options[i]) {
+                         newContents += "<mark>" + lines[i] + "</mark>";
+                     } else {
+                         newContents += lines[i];
+                     }
+                     if(i + 1 < lines.length) {
+                         newContents += "\n";
+                     }
+                 }
+                 $(block).html(newContents);
+
+                 return true;
+             } else {
+                 console.log("NO SOLUTION!")
+                 return false;
+             }
+         }
+         function processCurrentCodeBlock() {
+             codeblock = document.querySelector("section.present > pre:nth-child(2) > code:nth-child(1)");
+             status = document.querySelector("section.present > span:nth-child(4)");
+             if(processCodeBlock(codeblock)) {
+                 status.innerHTML = "Solution found!";
+             } else {
+                 status.innerHTML = "No solution found!";
+             }
+         }
+        </script>
+    </body>
+</html>
