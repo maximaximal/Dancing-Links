@@ -36,6 +36,13 @@
              display: inline-block;
              font-size: 16px;
          }
+
+         .solved {
+             background-color: #98FB98;
+         }
+         .unsolvable {
+             background-color: #F08080;
+         }
         </style>
 	</head>
 
@@ -100,7 +107,7 @@ r y<span class="fragment fade-in">:B</span> .</code></pre>
                      {
                          if (e.shiftKey)
                          {
-                             processCodeBlock(document.querySelector("section.present > pre:nth-child(2) > code:nth-child(1)"));
+                             processCurrentCodeBlock();
                              return false;
                          }
                          return true;
@@ -146,14 +153,20 @@ r y<span class="fragment fade-in">:B</span> .</code></pre>
                  return false;
              }
          }
+
+         function drawSuccessBorder(block, success) {
+             if(success) {
+                 block.classList.remove("unsolvable");
+                 block.classList.add("solved");
+             } else {
+                 block.classList.remove("solved");
+                 block.classList.add("unsolvable");
+             }
+         }
+         
          function processCurrentCodeBlock() {
              codeblock = document.querySelector("section.present > pre:nth-child(2) > code:nth-child(1)");
-             status = document.querySelector("section.present > span:nth-child(4)");
-             if(processCodeBlock(codeblock)) {
-                 status.innerHTML = "Solution found!";
-             } else {
-                 status.innerHTML = "No solution found!";
-             }
+             drawSuccessBorder(codeblock, processCodeBlock(codeblock));
          }
         </script>
     </body>
