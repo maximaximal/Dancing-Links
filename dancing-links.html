@@ -132,7 +132,9 @@ r y<span class="fragment fade-in">:B</span> .</code></pre>
                      options[(s.get(i))] = true;
                  }
                  //block.setAttribute("data-line-numbers", data);
-                 let lines = block.textContent.split('\n');
+                 let html = block.innerHTML;
+                 html = html.replaceAll('<br>', '\n').replaceAll(/<[^>]*>?/gm, '');
+                 let lines = html.split('\n');
                  let newContents = "";
                  for(let i = 0;i < lines.length; i++){
                      lines[i] = lines[i].replace('<', "&lt;").replace('>', "&gt;");
@@ -142,7 +144,7 @@ r y<span class="fragment fade-in">:B</span> .</code></pre>
                          newContents += lines[i];
                      }
                      if(i + 1 < lines.length) {
-                         newContents += "\n";
+                         newContents += "<br>";
                      }
                  }
                  $(block).html(newContents);
