@@ -1,0 +1,77 @@
+Parsed word list with 10 words and 11 letters in the alphabet.
+Start to search for possible puzzles...
+Translating word puzzle to color-controlled exact covering problem.
+Finished translating.
+Computing next solution for word puzzle...
+Possibility found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+     
+     
+     
+     
+ FIVE
+./dancing-links-unsanitized --wordpuzzle 5 5 ../exercise106.wordlist  26.47s user 0.00s system 99% cpu 26.476 total

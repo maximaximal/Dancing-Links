@@ -1,0 +1,103 @@
+Parsed word list with 12 words and 15 letters in the alphabet.
+Start to search for possible puzzles...
+Translating word puzzle to color-controlled exact covering problem.
+Finished translating.
+Computing next solution for word puzzle...
+Possibility found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G E O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+./dancing-links-unsanitized --wordpuzzle 6 6 ../exercise105.wordlist  412.66s user 0.00s system 99% cpu 6:52.67 total
