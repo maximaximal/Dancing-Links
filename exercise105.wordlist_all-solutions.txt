@@ -1,0 +1,3337 @@
+Parsed word list with 12 words and 15 letters in the alphabet. This computes to Translating word puzzle to color-controlled exact covering problem.
+Finished translating.
+1752 options with 48 primary items and 324 secondary items, making 36^15 possible configurations.
+Start to search for possible puzzles...
+Computing next solution for word puzzle...
+Possibility 1 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G E O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 2 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G F O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 3 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G G O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 4 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G H O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 5 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G I O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 6 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G L O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 7 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G N O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 8 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G O O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 9 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G R O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 10 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G S O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 11 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G T O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 12 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G U O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 13 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G V O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 14 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G W O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 15 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G X O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+   T  
+    W 
+     O
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 16 found:
+O N E T T F 
+
+S I X H W O 
+
+E N R G O U 
+
+V E V I F R 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+    T 
+    W 
+    O 
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     F
+     O
+     U
+     R
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 17 found:
+O N E T T R 
+
+S I X H W U 
+
+E N R G O O 
+
+V E V I F F 
+
+E V L E W T 
+
+N E V E L E 
+Solution:
+  ONE:
+ONE   
+      
+      
+      
+      
+      
+  TWO:
+    T 
+    W 
+    O 
+      
+      
+      
+  THREE:
+    T 
+   H  
+  R   
+ E    
+E     
+      
+  FOUR:
+     R
+     U
+     O
+     F
+      
+      
+  FIVE:
+      
+      
+      
+ EVIF 
+      
+      
+  SIX:
+      
+SIX   
+      
+      
+      
+      
+  SEVEN:
+      
+S     
+E     
+V     
+E     
+N     
+  EIGHT:
+   T  
+   H  
+   G  
+   I  
+   E  
+      
+  NINE:
+ N    
+ I    
+ N    
+ E    
+      
+      
+  TEN:
+ NET  
+      
+      
+      
+      
+      
+  ELEVEN:
+      
+      
+      
+      
+      
+NEVELE
+  TWELVE:
+      
+      
+      
+      
+EVLEWT
+      
+Computing next solution for word puzzle...
+Possibility 18 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W E F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 19 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W F F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 20 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W G F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 21 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W H F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 22 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W I F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 23 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W L F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 24 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W N F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 25 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W O F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 26 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W R F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 27 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W S F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 28 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W T F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 29 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W U F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 30 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W V F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 31 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W W F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 32 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W X F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+T     
+ W    
+  O   
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 33 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W O F W L 
+
+F O U R T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+      
+TWO   
+      
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+FOUR  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...
+Possibility 34 found:
+O S E V E N 
+
+N I N E V E 
+
+E X R V L V 
+
+T H G I E E 
+
+T W O F W L 
+
+R U O F T E 
+Solution:
+  ONE:
+O     
+N     
+E     
+      
+      
+      
+  TWO:
+      
+      
+      
+      
+TWO   
+      
+  THREE:
+    E 
+   E  
+  R   
+ H    
+T     
+      
+  FOUR:
+      
+      
+      
+      
+      
+RUOF  
+  FIVE:
+      
+   E  
+   V  
+   I  
+   F  
+      
+  SIX:
+ S    
+ I    
+ X    
+      
+      
+      
+  SEVEN:
+ SEVEN
+      
+      
+      
+      
+      
+  EIGHT:
+      
+      
+      
+THGIE 
+      
+      
+  NINE:
+      
+NINE  
+      
+      
+      
+      
+  TEN:
+      
+N     
+E     
+T     
+      
+      
+  ELEVEN:
+     N
+     E
+     V
+     E
+     L
+     E
+  TWELVE:
+    E 
+    V 
+    L 
+    E 
+    W 
+    T 
+Computing next solution for word puzzle...

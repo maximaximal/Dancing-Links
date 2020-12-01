@@ -5,3 +5,4 @@ p r x:Ä y;
 p x:B;
 q x:Ä;
 r y:B;
+r;

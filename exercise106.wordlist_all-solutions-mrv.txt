@@ -1,0 +1,18441 @@
+Parsed word list with 10 words and 11 letters in the alphabet. This computes to Translating word puzzle to color-controlled exact covering problem.
+Finished translating.
+931 options with 35 primary items and 225 secondary items, making 25^11 possible configurations.
+Start to search for possible puzzles...
+Using MRV heuristic.
+Computing next solution for word puzzle...
+Possibility 1 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 2 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 3 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 4 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 5 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 6 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 7 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 8 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 9 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 10 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 11 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 12 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 13 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 14 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 15 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 16 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 17 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 18 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 19 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 20 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 21 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 22 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 23 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 24 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 25 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 26 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 27 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 28 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 29 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 30 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 31 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 32 found:
+E E R H T 
+
+E N U W F 
+
+R U O F I 
+
+H W F N V 
+
+T F I V E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+EERHT
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 33 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 34 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 35 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 36 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 37 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 38 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 39 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 40 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 41 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 42 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 43 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 44 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 45 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 46 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 47 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 48 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+EERHT
+     
+     
+     
+     
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 49 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 50 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 51 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 52 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 53 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 54 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 55 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 56 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 57 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 58 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 59 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 60 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 61 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 62 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 63 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+Computing next solution for word puzzle...
+Possibility 64 found:
+E E R H T 
+
+V N U W H 
+
+I F O U R 
+
+F W F N E 
+
+T F I V E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+EERHT
+     
+     
+     
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+ FIVE
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 65 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 66 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 67 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 68 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 69 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 70 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 71 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 72 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 73 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 74 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 75 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 76 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 77 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 78 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 79 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 80 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 81 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 82 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 83 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 84 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 85 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 86 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 87 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 88 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 89 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 90 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 91 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 92 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 93 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 94 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 95 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 96 found:
+E V I F T 
+
+E N F W F 
+
+R U O F I 
+
+H W U N V 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+E    
+E    
+R    
+H    
+T    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+     
+    F
+    I
+    V
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 97 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 98 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 99 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 100 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 101 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 102 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 103 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 104 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 105 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 106 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 107 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 108 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 109 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 110 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 111 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 112 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  THREE:
+     
+     
+     
+     
+THREE
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 113 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 114 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 115 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 116 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 117 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 118 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 119 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 120 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 121 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 122 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 123 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 124 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 125 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 126 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 127 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+    T
+   W 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+Computing next solution for word puzzle...
+Possibility 128 found:
+E V I F T 
+
+V N F W H 
+
+I F O U R 
+
+F W U N E 
+
+T H R E E 
+Solution:
+  THREE:
+     
+     
+     
+     
+THREE
+  THREE:
+    T
+    H
+    R
+    E
+    E
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  ONE:
+     
+     
+  O  
+   N 
+    E
+  ONE:
+E    
+ N   
+  O  
+     
+     
+  FIVE:
+E    
+V    
+I    
+F    
+     
+  FIVE:
+EVIF 
+     
+     
+     
+     
+  TWO:
+     
+     
+  O  
+ W   
+T    
+  TWO:
+    T
+   W 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 129 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 130 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 131 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 132 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 133 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 134 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 135 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 136 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 137 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 138 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 139 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 140 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 141 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 142 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 143 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 144 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 145 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 146 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 147 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 148 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 149 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 150 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 151 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 152 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 153 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 154 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 155 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 156 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 157 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 158 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 159 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 160 found:
+T F I V E 
+
+F W F N E 
+
+I F O U R 
+
+V N U W H 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 161 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 162 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 163 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 164 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 165 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 166 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 167 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 168 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 169 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 170 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 171 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 172 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 173 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 174 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 175 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 176 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+     
+     
+     
+     
+EERHT
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 177 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 178 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 179 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 180 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 181 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 182 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 183 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 184 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 185 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 186 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 187 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 188 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 189 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 190 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 191 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 192 found:
+T F I V E 
+
+H W F N V 
+
+R U O F I 
+
+E N U W F 
+
+E E R H T 
+Solution:
+  THREE:
+     
+     
+     
+     
+EERHT
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+     
+  F  
+  O  
+  U  
+  R  
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+ FIVE
+     
+     
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 193 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 194 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 195 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 196 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 197 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 198 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 199 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 200 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 201 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 202 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 203 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 204 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 205 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 206 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 207 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 208 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 209 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 210 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 211 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 212 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 213 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 214 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 215 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 216 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 217 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 218 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 219 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 220 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 221 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 222 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 223 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+Computing next solution for word puzzle...
+Possibility 224 found:
+T H R E E 
+
+F W U N E 
+
+I F O U R 
+
+V N F W H 
+
+E V I F T 
+Solution:
+  THREE:
+    E
+    E
+    R
+    H
+    T
+  THREE:
+THREE
+     
+     
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+     
+F    
+I    
+V    
+E    
+  FOUR:
+     
+     
+ FOUR
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 225 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 226 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 227 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 228 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 229 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 230 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 231 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 232 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 233 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 234 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 235 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 236 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 237 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 238 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 239 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 240 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+THREE
+     
+     
+     
+     
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 241 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 242 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 243 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 244 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 245 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 246 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 247 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 248 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 249 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 250 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 251 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 252 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 253 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 254 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Possibility 255 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+    E
+   N 
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+Computing next solution for word puzzle...
+Possibility 256 found:
+T H R E E 
+
+H W U N V 
+
+R U O F I 
+
+E N F W F 
+
+E V I F T 
+Solution:
+  THREE:
+T    
+H    
+R    
+E    
+E    
+  THREE:
+THREE
+     
+     
+     
+     
+  FOUR:
+     
+     
+RUOF 
+     
+     
+  FOUR:
+  R  
+  U  
+  O  
+  F  
+     
+  FIVE:
+     
+     
+     
+     
+EVIF 
+  FIVE:
+    E
+    V
+    I
+    F
+     
+  TWO:
+     
+     
+  O  
+   W 
+    T
+  TWO:
+T    
+ W   
+  O  
+     
+     
+  ONE:
+     
+     
+  O  
+ N   
+E    
+  ONE:
+    E
+   N 
+  O  
+     
+     
+Computing next solution for word puzzle...
+Found 256 solutions!
+4169.40user 0.26system 1:09:30elapsed 99%CPU (0avgtext+0avgdata 4276maxresident)k
+0inputs+304outputs (0major+212minor)pagefaults 0swaps
